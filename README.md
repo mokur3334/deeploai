@@ -1,2 +1,0 @@
-# deeploai
-projects for deeploai
